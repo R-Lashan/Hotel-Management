@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cart-item{
+    width: 80%;
+    height: 10%;
+    border: 1px solid black;
+    color: #444;
+    margin-top: 5px;
+    margin-left: 56px;
+    margin-right: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.text{
+    letter-spacing: 10px;
+    margin-left: 40px;
+    position: relative;
+    top: 25%;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+.Language-box{
+    position:absolute;
+    left: 55%;
+    top: 05%;
+    color:White;
+    font-family: 'Goldman', sans-serif;
+}
+
+.french-lan{
+    position:absolute;
+    left: 110%;
+    top: 05%;
+    color:black;
+    font-size: 20px;
+    width: 180px;
+    height: 40px;
+    border: none;
+    background-color: white;
+    outline: none;
+}
+.down-arrow{
+    position:absolute;
+    left: 80%;
+    top: 05%;
+    color:White;
+    font-family: 'Goldman', sans-serif;
+    transform: rotate(90deg);
+}
+
+.cart1-item{
+    width: 80%;
+    height: 10%;
+    border: 1px solid black;
+    color: #444;
+    margin-top: 5px;
+    margin-left: 56px;
+    margin-right: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.h4{
+    position: absolute;
+    top: 15%;
+    text-align: center;
+    right: 30%;
+}
+
+
+.sub-title{
+    position: absolute;
+    top: 70%;
+    text-align: center;
+    right: 30%;
+}
+
+.Selected-item{
+    border: 1px solid black;
+    width: 80%;
+    height: 10%;
+    text-align: center;
+    position: relative;
+    top: 75%;
+    left: 15%;
+}
+
+.btn-delete{
+    position: relative;
+    top: 85%;
+}
+
+.btn-purchase{
+    position: relative;
+    top: 65%;
+    left: 69%;
+ 
+}
+
+.btn-add{
+    position: relative;
+    top: 65%;
+    left: 3%;
+ 
+}
+
+
+.title{
+    padding: 20px 100px;
+    margin: 0;
+    width: 101.9%;
+    height: 100px;
+    background: #111;
+    color: white;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-family: 'Goldman', sans-serif;
+}
+
+
+.logout{
+
+    height: 40px;
+    position: absolute;
+    right: 100%;
+    color: white;
+    top: 110%;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-family: 'Goldman', sans-serif;
+
+}
+
+.logout-btn{
+    width: 100px;
+    height: 40px;
+    background-color: #333;
+}
+
+.product{
+    padding: 20px;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.background{
+    background-color: black;
+}
+
+
+.stake{
+position: absolute;
+top: 70px;
+left: 5%;
+}
+
+
+
+.itemstake{
+    position: relative;
+    top: 105px;
+    margin-left: 45%;
+}
+
+.itemnoodles{
+    position: relative;
+    top: 65px;
+    margin-left: 52%;
+}
+
+.btn-buy{
+    border: none;
+    background-color: black;
+    color: #ffff;
+    width: 20%;
+    height: 60%;
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-left: 40px;
+}
+
+.btn-cart{
+    border: none;
+    background-color: black;
+    color: #ffff;
+    width: 40%;
+    height: 60%;
+}
+
+
+
+.btn-buy-noodle{
+    margin-top: 30px;
+}
+
+.btn-noodle{
+    margin-top: 25px;
+}
+
+
+
+
+
+.noodles{
+    position: absolute;
+    top: 0%;
+    margin-left: 20px;
+}
+
+
+.cart {
+    margin-top: 30px;
+    border: 10px solid black;
+    width: 0%;
+    height: 500px;
+    position: relative;
+    right: 2%;
+    position: fixed;
+}
